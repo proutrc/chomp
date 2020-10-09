@@ -1,6 +1,6 @@
 {
-  "homepage": "http://proutrc.github.io/react-test",
-  "name": "cap-app",
+  "homepage": "http://proutrc.github.io/chomp",
+  "name": "chomp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
