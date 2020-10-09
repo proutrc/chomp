@@ -1,6 +1,6 @@
 {
   "homepage": "http://proutrc.github.io/chomp",
-  "name": "chomp1",
+  "name": "chomp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
